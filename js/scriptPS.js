@@ -16,7 +16,7 @@
 var HighestZoomLevel = 6; // Enter the highest zoom level we are creating tiles for (should be less than OrgZoom; technically the  script should be able to handle values larger as well, but your image quality will suffer)
 var LowestZoomLevel = 2; // Enter the last zoom level we want to create tiles for (must be <= HighestZoomLevel for the script to do anything)
 
-var FolderPath = "C:/Users/Sansaur/Desktop/FFIXCharles/imgmap/";  //<-- path to where we will save our tiles
+var FolderPath = "C:/Users/Sansaur/Desktop/FFIXC2/imgmap/";  //<-- path to where we will save our tiles
 
 // We start with the coordinates, zoom, and width of an upper left corner tile and generate everything from there
 // We can calculate new tile values from these values for any zoom level without having to look up these details for each.
