@@ -1,0 +1,12 @@
+Hacer JSONS:
+    1) Los JSON se tienen que poder escribir, mirar como controlar eso.
+    2) JSON para los marcadores del mapa
+    3) JSON para los personajes
+    4) JSON para la lore
+
+Hacer páginas:
+    1) Página de herramientas del juego de final fantasy
+    2) Página de wiki del juego de final fantasy
+    3) Página para la lore que quiera poner Carlos
+    4) Página para poner a los personajes. (A modo de libro, todo chulo) 
+    5) 
