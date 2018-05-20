@@ -51,12 +51,12 @@ function initialize() {
   map.mapTypes.set('custom',CustomMapType);
   map.setMapTypeId('custom');
 
-  var myLatLng = {lat: 0, lng: 0};
   var marker = new google.maps.Marker({
-    position: myLatLng,
+    position: new google.maps.LatLng(65.07,-56.08),
     map: map,
     title: 'Hello World!'
   });
+  marker.setMap(map);
 }
 
 </script>
